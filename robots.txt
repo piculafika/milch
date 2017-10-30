@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://piculafika.github.io/milch/sitemap.xml
